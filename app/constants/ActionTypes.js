@@ -1,0 +1,8 @@
+export const LOGIN_USER = 'LOGIN_USER';
+export const ATTEMPTING_LOGIN = 'ATTEMPTING_LOGIN';
+export const LOGOUT = 'LOGOUT';
+export const UNAUTHORIZED = 'UNAUTHORIZED';
+export const DISPLAY_ERROR = 'DISPLAY_ERROR';
+export const LOGGED_IN = 'LOGGED_IN';
+export const LOGIN_START = 'LOGIN_START';
+export const AWAITING_AUTH_RESPONSE = 'AWAITING_AUTH_RESPONSE'
